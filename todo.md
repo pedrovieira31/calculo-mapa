@@ -1,0 +1,5 @@
+- [x] - configurar arquitetura do projeto
+- [x] - configurar jest
+- [x] - criar hooks úteis básicos
+- [ ] - criar readme do projeto
+    - [ ] - requer reunião com cliente para definir alinhamentos
